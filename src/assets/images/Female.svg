@@ -1,0 +1,10 @@
+<svg id="Group_133" data-name="Group 133" xmlns="http://www.w3.org/2000/svg" width="99" height="30" viewBox="0 0 99 30">
+  <g id="Rectangle_62" data-name="Rectangle 62" fill="none" stroke="#b83971" stroke-width="1">
+    <rect width="99" height="30" rx="13" stroke="none"/>
+    <rect x="0.5" y="0.5" width="98" height="29" rx="12.5" fill="none"/>
+  </g>
+  <text id="She_Her" data-name="She/Her" transform="translate(26 20)" fill="#b83971" font-size="17" font-family="HelveticaNeueLTPro-Roman, Helvetica Neue LT Pro"><tspan x="0" y="0">She/Her</tspan></text>
+  <g id="female" transform="translate(0.418 8)">
+    <path id="Path_144" data-name="Path 144" d="M14.047,0a5.466,5.466,0,0,0-1.041,10.832v1.759H10.662v2.081h2.344v2.343h2.081V14.672h2.344V12.591H15.087V10.832A5.466,5.466,0,0,0,14.047,0Zm0,2.173a3.292,3.292,0,1,1-3.292,3.292A3.292,3.292,0,0,1,14.047,2.173Z" fill="#b83971"/>
+  </g>
+</svg>
